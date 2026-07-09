@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0291/kf/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 終須夢清彌堅堂主人編目録第一回解簽詩指腹為婚第二回逃遷後家貧葬父第三回蔡斌彥厭貧退親第四回注生廟誓約花燭第五回為衣食星蔔設教第六回遭大變妻子俱亡第七回因遊學喜逢詩友第八回康夢鶴客齋夜夢第九回蔡平娘魂棲玉真第十回被姦人陷害沈船第十一回卜玉真聞凶盡節第十二回變一策打走光棍第十三回幸有緣客鄉相會第十四回出意外被姦拆離第十五回處勢窮設計脫身第十六回三及第榮授皇恩第十七回接回雁惆悵凶信第十八回能知足衣錦回鄉
+  hash: sha256:d402820554a3dc11bd492a22580c3563bc2970a265f147e63175277f851d9fe1
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0291_kf_000-h.1}
+metadata:
+  title: 終須夢
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0291.xml
+hash: sha256:ac8ebaeb0a2589b8480c1f7b047e234b5a0f20729aed298fc4f191be66f92f84
